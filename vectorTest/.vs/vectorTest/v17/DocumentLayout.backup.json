@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\sysloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\sysloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\syslogloglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\syslogloglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\isyslogloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\isyslogloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\syslogloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\syslogloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\syslogloggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\syslogloggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|c:\\users\\sergio\\desktop\\repos\\vectortest\\vectortest\\vectortest\\logs\\noopdisposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46C231A-9CAB-4BB2-BFDB-B24D5F18EC01}|vectorTest\\vectorTest.csproj|solutionrelative:vectortest\\logs\\noopdisposable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISyslogLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\ISyslogLoggerProvider.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\ISyslogLoggerProvider.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\ISyslogLoggerProvider.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\ISyslogLoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:39:57.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SyslogLoggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLoggerExtensions.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\SyslogLoggerExtensions.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLoggerExtensions.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\SyslogLoggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:53:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SyslogLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLogger.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\SyslogLogger.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLogger.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\SyslogLogger.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0EAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:35:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SyslogLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLoggerProvider.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\SyslogLoggerProvider.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLoggerProvider.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\SyslogLoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:40:15.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "vectorTest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\WeatherForecast.cs",
+              "RelativeToolTip": "vectorTest\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:33:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SyslogLogLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLogLevel.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\SyslogLogLevel.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\SyslogLogLevel.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\SyslogLogLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:36:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "vectorTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:21:11.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Program.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Program.cs",
+              "RelativeToolTip": "vectorTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:33:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoopDisposable.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\NoopDisposable.cs",
+              "RelativeDocumentMoniker": "vectorTest\\Logs\\NoopDisposable.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\repos\\vectorTest\\vectorTest\\vectorTest\\Logs\\NoopDisposable.cs",
+              "RelativeToolTip": "vectorTest\\Logs\\NoopDisposable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:36:56.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

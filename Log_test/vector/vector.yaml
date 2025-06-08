@@ -1,0 +1,29 @@
+sources:
+  syslog:
+    type: syslog
+    address: 0.0.0.0:514
+    mode: udp
+
+transforms:
+  parse_syslog:
+    type: remap
+    inputs: [syslog]
+    source: |
+      .id = uuid_v4()
+      if .severity == "err" { .severity = "error" }
+sinks:
+  postgres:
+    type: postgres
+    inputs: [parse_syslog]
+    endpoint: postgresql://vector:vectorpass@postgres:5432/vectordb
+    table: logs.vectorlogs
+    batch:
+      max_events: 1000
+      timeout_secs: 5
+
+  syslog_file:
+    type: file
+    inputs: [parse_syslog]
+    path: /var/log/vector_syslog.log
+    encoding:
+      codec: json
