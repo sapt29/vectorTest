@@ -1,0 +1,29 @@
+sources:
+  syslog:
+    type: syslog
+    address: 0.0.0.0:514
+    mode: udp
+
+transforms:
+  parse_syslog:
+    type: remap
+    inputs: [syslog]
+    source: |
+      structured = parse_syslog!(.message)
+      .timestamp = structured.timestamp
+      .hostname = structured.hostname
+      .appname = structured.appname
+      .message = structured.msg
+      .severity = structured.severity
+      .facility = structured.facility
+      .id = uuid_v4()
+sinks:
+  postgres:
+    type: postgresql
+    inputs: [parse_syslog]
+    endpoint: postgresql://vector:vectorpass@postgres:5432/vectordb
+    table: logs.vectorlogs
+    mode: insert
+    batch:
+      max_events: 1000
+      timeout_secs: 5
